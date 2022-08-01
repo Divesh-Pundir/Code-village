@@ -15,6 +15,7 @@ public class ScannerDemo1 {
 		System.out.println("Mobile Number:  "+mobileNo);
 		System.out.println("CGPA:  "+cgpa);
 		System.out.println("Devesh singh");
+		System.out.println("Result");
 	}
 
 }
