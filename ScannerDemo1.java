@@ -12,7 +12,7 @@ public class ScannerDemo1 {
 		System.out.println("Name: "+name);
 		System.out.println("Gender: "+gender);
 		System.out.println("Age: "+age);
-		System.out.println("Mobile Number:  "+mobileNo);
+		System.out.println("Phoneno:  "+phoneNo);
 		System.out.println("CGPA:  "+cgpa);
 		System.out.println("Devesh singh");
 		System.out.println("Gender");
