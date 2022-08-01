@@ -16,6 +16,7 @@ public class ScannerDemo1 {
 		System.out.println("CGPA:  "+cgpa);
 		System.out.println("Devesh singh");
 		System.out.println("Gender");
+		System.out.println("D.o.b);
 	}
 
 }
